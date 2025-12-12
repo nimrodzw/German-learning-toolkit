@@ -21,7 +21,7 @@ It’s designed to be simple, printable, and useful from Day One — whether you
 
 ---
 
-## 📘 What You’ll Find Inside
+## 📘 What You Will Find Inside
 
 ### **A1 Foundations**
 - Essential phrases  
@@ -67,37 +67,37 @@ It’s designed to be simple, printable, and useful from Day One — whether you
 
 ## 🗂 Project Structure
 > Each folder contains **one main Cheatsheet PDF** plus **all additional materials as PDFs** for easy printing and offline study.
-GermanLearningToolkit/
-│
-├── A1_Basics/
-│ ├── A1_Cheatsheet.pdf # Main beginner cheat sheet
-│ ├── phrases.pdf
-│ ├── pronunciation.pdf
-│ ├── verbs.pdf
-│ └── grammar_intro.pdf
-│
-├── A2_B1_Grammar/
-│ ├── A2B1_Cheatsheet.pdf # Main intermediate cheat sheet
-│ ├── cases.pdf
-│ ├── modal_verbs.pdf
-│ ├── tenses.pdf
-│ └── word_order.pdf
-│
-├── B2_C2_Advanced/
-│ ├── B2C2_Cheatsheet.pdf # Main advanced cheat sheet
-│ ├── connectors.pdf
-│ ├── subjunctive.pdf
-│ └── professional_vocab.pdf
-│
-├── CheatSheets/
-│ ├── day_one.pdf
-│ ├── verb_drills.pdf
-│ └── vocab_lists.pdf
-│
-└── Extras/
-├── study_plans.pdf
-├── exercises.pdf
-└── tips.pdf
+
+- **GermanLearningToolkit/**
+  - **A1_Basics/**
+    - `A1_Cheatsheet.pdf` – Main beginner cheat sheet  
+    - `phrases.pdf`  
+    - `pronunciation.pdf`  
+    - `verbs.pdf`  
+    - `grammar_intro.pdf`  
+      
+  - **A2_B1_Grammar/**
+    - `A2B1_Cheatsheet.pdf` – Main intermediate cheat sheet  
+    - `cases.pdf`  
+    - `modal_verbs.pdf`  
+    - `tenses.pdf`  
+    - `word_order.pdf`  
+      
+  - **B2_C2_Advanced/**
+    - `B2C2_Cheatsheet.pdf` – Main advanced cheat sheet  
+    - `connectors.pdf`  
+    - `subjunctive.pdf`  
+    - `professional_vocab.pdf`  
+      
+  - **CheatSheets/**
+    - `day_one.pdf`  
+    - `verb_drills.pdf`  
+    - `vocab_lists.pdf`  
+      
+  - **Extras/**
+    - `study_plans.pdf`  
+    - `exercises.pdf`  
+    - `tips.pdf`
 
 ---
 
